@@ -1,0 +1,16 @@
+{
+  "name": "acornaeology",
+  "owner": {
+    "name": "acornaeology contributors"
+  },
+  "metadata": {
+    "description": "Claude Code plugins from the acornaeology project for reverse-engineering Acorn and BBC Micro software."
+  },
+  "plugins": [
+    {
+      "name": "disassembly-skills",
+      "source": "./",
+      "description": "A method for producing verified, densely annotated 6502 disassemblies with dasmos and fantasm."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "disassembly-skills",
+  "version": "0.1.0",
+  "description": "A method for producing verified, densely annotated 6502 disassemblies of Acorn and BBC Micro software with dasmos, optionally checked with fantasm.",
+  "author": {
+    "name": "acornaeology contributors"
+  },
+  "homepage": "https://acornaeology.uk",
+  "repository": "https://github.com/acornaeology/disassembly-skills",
+  "license": "MIT",
+  "keywords": ["6502", "disassembly", "reverse-engineering", "bbc-micro", "acorn", "dasmos", "fantasm"]
+}
